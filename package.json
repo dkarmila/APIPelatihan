@@ -1,0 +1,20 @@
+{
+  "name": "day20",
+  "version": "1.0.0",
+  "description": "BackEnd Pelatihan",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dkarmila-BAtch124",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.10.8",
+    "jsonwebtoken": "^8.1.0",
+    "mongoose": "^4.11.13",
+    "multer": "^1.3.0",
+    "nodemon": "^1.12.1"
+  }
+}
